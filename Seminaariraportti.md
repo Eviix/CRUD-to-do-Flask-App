@@ -183,4 +183,5 @@ Tässä vielä muutama idea jatkokehitystä varten:
 ## Lähteet
 
 Flask’s documentation https://flask.palletsprojects.com/en/2.2.x/ Luettu 3.12.2022
+
 Tech With Tim. Flask Tutorial #1- #4 https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX Katsottu 4.12.2022
