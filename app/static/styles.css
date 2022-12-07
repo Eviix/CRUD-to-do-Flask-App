@@ -1,0 +1,36 @@
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: auto;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #ddd;
+  font-weight: bold;
+}
+
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+tr {
+ transition: background-color 0.5s ease;
+}
+
+tr:hover {
+ background-color: #f5f5f5;
+}
+
+th {
+ background: linear-gradient(#ddd, #ccc);
+ font-weight: bold;
+}
